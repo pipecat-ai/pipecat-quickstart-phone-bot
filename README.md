@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repo is no longer maintained. Checkout [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) for recent demos and example code. 
+
 # Phone Bot Twilio
 
 Learn how to connect your Pipecat bot to a phone number so users can call and have voice conversations. This example shows the complete setup for telephone-based AI interactions using Twilio's telephony services. At the end, you'll be able to talk to your bot on the phone.
